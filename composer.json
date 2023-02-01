@@ -1,0 +1,21 @@
+{
+  "name": "aarailfan/gsa_bootstrap5",
+  "description": "A Drupal 9/10 bootstrap5 subtheme built for https://www.goldenspikeartisans.com.",
+  "type": "drupal-theme",
+  "license": "GPL-2.0",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/aarailfan/gsa_bootstrap5"
+    }
+  ],
+  "require": {
+    "drupal/bootstrap5": "^3"
+  },
+  "authors": [
+    {
+      "name": "David Simmons",
+      "role": "Maintainer"
+    }
+  ]
+}
