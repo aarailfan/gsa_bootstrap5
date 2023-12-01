@@ -1,6 +1,6 @@
 # Golden Spike Artisans Bootstrap5 Sub-Theme theme
 
-[Bootstrap 5](https://www.drupal.org/project/bootstrap5) subtheme.
+[Bootstrap 5](https://www.drupal.org/project/bootstrap5) Drupal subtheme that applies customizations for the Golden Spike Artisans website..
 
 ## Development.
 
