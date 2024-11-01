@@ -1,7 +1,7 @@
 name: 'Golden Spike Artisans Bootstrap5 Sub-Theme'
 type: theme
 description: 'Golden Spike Artisans Bootstrap5 Sub-Theme subtheme based on Bootstrap 5 theme.'
-core_version_requirement: '^9.4 || ^10'
+core_version_requirement: '^9.4 || ^10 || ^11'
 'base theme': bootstrap5
 libraries:
   - gsa_bootstrap5/global-styling
